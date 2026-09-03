@@ -1,0 +1,9 @@
+streamlit>=1.41,<2
+pandas>=2.2,<3
+plotly>=5.24,<7
+scikit-learn>=1.5,<2
+groq>=0.20,<1
+python-dotenv>=1.0,<2
+requests>=2.32,<3
+pytest>=8,<9
+truststore>=0.10,<1

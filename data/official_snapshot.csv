@@ -1,0 +1,22 @@
+indicator,date,frequency,value,unit,category,source_name,source_url,accessed_on,notes
+Real GDP at constant prices,2026-03-31,Quarterly,1.2,SAR trillion,Growth,DataSaudi,https://datasaudi.sa/en,2026-08-30,First quarter 2026 headline value shown on DataSaudi.
+Real GDP oil activities,2025-12-31,Annual,1.3,SAR trillion,Growth,DataSaudi,https://datasaudi.sa/en,2026-08-30,Annual real GDP for oil activities.
+Real GDP non-oil activities,2025-12-31,Annual,2.7,SAR trillion,Growth,DataSaudi,https://datasaudi.sa/en,2026-08-30,Annual real GDP for non-oil activities.
+CPI inflation,2026-07-31,Monthly,1.8,percent YoY,Prices,DataSaudi,https://datasaudi.sa/en,2026-08-30,Headline annual inflation rate.
+Housing CPI inflation,2026-07-31,Monthly,4.2,percent YoY,Prices,DataSaudi,https://datasaudi.sa/en,2026-08-30,Housing water electricity gas and other fuels.
+WPI inflation,2026-07-31,Monthly,5.0,percent YoY,Prices,DataSaudi,https://datasaudi.sa/en,2026-08-30,Headline wholesale price inflation.
+Producer Price Index,2026-06-30,Monthly,111.2,index points,Prices,DataSaudi,https://datasaudi.sa/en,2026-08-30,General producer price index.
+Industrial Production Index monthly growth,2026-06-30,Monthly,4.3,percent MoM,Business activity,DataSaudi,https://datasaudi.sa/en,2026-08-30,Monthly change in the industrial production index.
+Purchasing Managers' Index,2026-07-31,Monthly,53.1,index points,Business activity,DataSaudi,https://datasaudi.sa/en,2026-08-30,A value above 50 generally indicates expansion.
+Business Confidence Index,2026-07-31,Monthly,56.5,index points,Business activity,DataSaudi,https://datasaudi.sa/en,2026-08-30,Overall business confidence.
+Merchandise exports,2026-05-31,Monthly,93.8,SAR billion,Trade,DataSaudi,https://datasaudi.sa/en,2026-08-30,Headline merchandise exports.
+Merchandise imports,2026-05-31,Monthly,67.8,SAR billion,Trade,DataSaudi,https://datasaudi.sa/en,2026-08-30,Headline merchandise imports.
+Merchandise trade balance,2026-05-31,Monthly,26.0,SAR billion,Trade,DataSaudi,https://datasaudi.sa/en,2026-08-30,Exports less imports.
+Saudi unemployment rate,2026-03-31,Quarterly,6.4,percent,Labour,DataSaudi,https://datasaudi.sa/en,2026-08-30,Saudi unemployment headline shown on the DataSaudi overview.
+Overall unemployment rate,2026-03-31,Quarterly,3.1,percent,Labour,DataSaudi,https://datasaudi.sa/en,2026-08-30,Overall unemployment across the population.
+Total population,2024-12-31,Annual,35300280,people,Population,DataSaudi,https://datasaudi.sa/en,2026-08-30,Latest population headline in the packaged snapshot.
+Total tourists,2025-12-31,Annual,123.0,million tourists,Tourism,DataSaudi,https://datasaudi.sa/en/sector/tourism,2026-08-30,Inbound plus domestic tourists; components may differ slightly due to rounding.
+Inbound tourists,2025-12-31,Annual,29.3,million tourists,Tourism,DataSaudi,https://datasaudi.sa/en/sector/tourism,2026-08-30,Inbound tourists.
+Domestic tourists,2025-12-31,Annual,93.3,million tourists,Tourism,DataSaudi,https://datasaudi.sa/en/sector/tourism,2026-08-30,Domestic tourists.
+Tourism direct contribution to GDP,2024-12-31,Annual,4.9,percent of GDP,Tourism,DataSaudi,https://datasaudi.sa/en/sector/tourism,2026-08-30,Direct tourism contribution to GDP.
+

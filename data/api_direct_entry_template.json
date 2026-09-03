@@ -1,0 +1,23 @@
+{
+  "id": "REPLACE_WITH_UNIQUE_ID",
+  "indicator": "REPLACE_WITH_DISPLAY_NAME",
+  "enabled": false,
+  "api_type": "json",
+  "url": "PASTE_COMPLETE_DATASAUDI_API_URL_HERE",
+  "params": {},
+  "headers": {"Accept": "application/json"},
+  "secret_headers": [],
+  "records_path": "data",
+  "pagination": {"parameter": "limit", "page_size": 500, "max_pages": 100},
+  "record_filters": {},
+  "date_field": "REPLACE_WITH_DATE_FIELD",
+  "value_field": "REPLACE_WITH_VALUE_FIELD",
+  "value_multiplier": 1,
+  "value_aggregation": null,
+  "frequency": "Monthly",
+  "unit": "REPLACE_WITH_DISPLAY_UNIT",
+  "category": "REPLACE_WITH_CATEGORY",
+  "source_name": "DataSaudi / official source",
+  "source_url": "https://datasaudi.sa/en",
+  "notes": "Live observation fetched from DataSaudi."
+}

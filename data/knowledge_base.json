@@ -1,0 +1,51 @@
+[
+  {
+    "id": "definition-pmi",
+    "title": "How to interpret PMI",
+    "text": "The Purchasing Managers' Index is a survey-based indicator of private non-oil business conditions. A reading above 50 generally indicates expansion compared with the previous month, while a reading below 50 generally indicates contraction. It describes direction and breadth, not the level of GDP.",
+    "source_name": "DataSaudi",
+    "source_url": "https://datasaudi.sa/en",
+    "as_of": "2026-08-30"
+  },
+  {
+    "id": "definition-inflation",
+    "title": "Inflation interpretation",
+    "text": "CPI inflation measures the annual change in consumer prices. WPI and PPI describe price changes earlier or elsewhere in the supply chain and should not be treated as identical to consumer inflation. A gap between WPI and CPI can motivate further pass-through analysis but does not by itself prove future CPI increases.",
+    "source_name": "DataSaudi dataset descriptions",
+    "source_url": "https://datasaudi.sa/en/data-explorer/datasets",
+    "as_of": "2026-08-30"
+  },
+  {
+    "id": "definition-trade",
+    "title": "Trade balance interpretation",
+    "text": "The merchandise trade balance equals merchandise exports minus merchandise imports. A positive balance is a merchandise surplus. Month-to-month movements should be interpreted with oil prices, export volumes, seasonality, and base effects rather than treated as a complete measure of external-sector strength.",
+    "source_name": "DataSaudi",
+    "source_url": "https://datasaudi.sa/en",
+    "as_of": "2026-08-30"
+  },
+  {
+    "id": "definition-gdp",
+    "title": "GDP interpretation",
+    "text": "Real GDP adjusts for price changes and is appropriate for assessing changes in production. Saudi economic analysis should distinguish oil, non-oil, and government activities because their drivers differ. Annual and quarterly values should not be compared without aligning frequency and methodology.",
+    "source_name": "DataSaudi",
+    "source_url": "https://datasaudi.sa/en",
+    "as_of": "2026-08-30"
+  },
+  {
+    "id": "definition-labour",
+    "title": "Labour-market denominator warning",
+    "text": "Saudi unemployment and overall unemployment use different population scopes. Analysts must state the nationality and gender coverage before comparing rates. Employment-to-population, labour-force participation, and unemployment answer different policy questions.",
+    "source_name": "DataSaudi regional and national labour indicators",
+    "source_url": "https://datasaudi.sa/en",
+    "as_of": "2026-08-30"
+  },
+  {
+    "id": "responsible-use",
+    "title": "Responsible use of generated economic analysis",
+    "text": "Generated economic analysis should identify its data date, link its sources, distinguish facts from interpretation, disclose missing evidence, and receive expert review before publication or policy use. Retrieval relevance is not the same as factual completeness.",
+    "source_name": "Project methodology",
+    "source_url": "https://datasaudi.sa/en",
+    "as_of": "2026-08-30"
+  }
+]
+
